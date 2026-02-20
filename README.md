@@ -61,4 +61,4 @@ When you run the script, it generates two main outputs:
 
 ## 🖼️ ScreenShot
 
-![output](..\screenshot\output.png)
+![K-Means Output](./screenshot/output.png)
