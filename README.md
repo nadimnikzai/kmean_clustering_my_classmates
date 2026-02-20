@@ -33,8 +33,8 @@ Each classmate was evaluated and scored based on the following 5 criteria:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone [https://github.com/yourusername/classmates-clustering.git](https://github.com/yourusername/classmates-clustering.git)
-   cd classmates-clustering
+   git clone https://github.com/nadimnikzai/kmean_clustering_my_classmates.git
+   cd kmean_clustering_my_classmates
    ```
 
 2. Ensure you have the required dataset (`dataset.csv`) in the root directory. The CSV should have columns matching the features listed above, plus a `name` column.
@@ -61,4 +61,4 @@ When you run the script, it generates two main outputs:
 
 ## 🖼️ ScreenShot
 
-![output](\screenshot\output.png)
+![output](..\screenshot\output.png)
